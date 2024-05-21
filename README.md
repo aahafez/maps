@@ -12,7 +12,7 @@ Using the Google Maps API (or any similar API), create an app using React Native
  ```javascript
   const API_KEY = 'your google maps api key';
 ```
-2. To run this project on your preffered mobile device, you can install the Expo Go on the app store, you can run the following command:
+2. To run this project on your preffered mobile device, you can install the Expo Go on the app store, and run the following command in the terminal:
 
 ```bash
   npx expo start
