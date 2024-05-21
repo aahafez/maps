@@ -19,7 +19,7 @@ then follow the instructions in the terminal.
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/kJCHDKp.jpeg)
+![App Screenshot](https://i.imgur.com/KfhrD6Q.jpeg)
 
 ![App Screenshot](https://i.imgur.com/5wnwuPu.jpeg)
 
