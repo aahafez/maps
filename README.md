@@ -7,7 +7,11 @@ Using the Google Maps API (or any similar API), create an app using React Native
 
 
 ## Installation
-To run this project on your preffered mobile device, you can install the Expo Go on the app store, you can run the following command:
+1. Add your Google Maps API Key to App.js
+2. ```javascript
+  const API_KEY = 'your google maps api key';
+```
+3. To run this project on your preffered mobile device, you can install the Expo Go on the app store, you can run the following command:
 
 ```bash
   npx expo start
